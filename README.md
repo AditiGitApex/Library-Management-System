@@ -36,7 +36,7 @@ A simple Library Management System I've built using **Java** and **MySQL**, feat
 LIBRARY/
 ├── src/
 │   ├── User.java
-│   ├── Admin.java
+│   ├── Action.java
 │   ├── Book.java
 │   ├── DBConnection.java
 │   └── ...
