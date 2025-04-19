@@ -1,6 +1,6 @@
 ## 📚 Library Management System
 
-A simple Library Management System I've built using **Java** and **MySQL**, featuring user and admin modules with book management, registration, login, and more. This system helps track books issued/returned and maintain organized records.
+A simple terminal-based Library Management System I've built using **Java** and **MySQL**, featuring user and admin modules with book management, registration, login, and more. This system helps track books issued/returned and maintain organized records.
 
 ---
 
